@@ -11,11 +11,13 @@ end
 
 def pioneer
   pioneers = {
-    :name 
+    name: "Grace Hopper"
   }
 end
 
 
 def id_hash_generator(number)
-  # return a hash with a key :id assigned to the provided number
+  number_hash = {
+    id: 5
+  }
 end
